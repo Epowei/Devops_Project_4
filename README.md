@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/Epowei/Devops_Project_4/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/Epowei/Devops_Project_4/tree/main)
 
 ## Project Overview
 
